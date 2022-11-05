@@ -9,4 +9,4 @@ test GitHub session with Bobo
 2. two
 
 
-** text bold **
+**text bold**
